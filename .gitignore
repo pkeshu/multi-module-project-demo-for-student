@@ -1,0 +1,6 @@
+.idea/
+domain/target/
+email/target/
+repository/target/
+service/target/
+web/target/
